@@ -1,0 +1,37 @@
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# C / C++
+*.o
+*.obj
+*.out
+*.exe
+a.out
+
+# Java
+*.class
+*.jar
+
+# Node / JavaScript
+node_modules/
+npm-debug.log
+
+# Logs / temp
+*.log
+*.tmp
